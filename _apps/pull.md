@@ -16,8 +16,8 @@ organizations:
   - spicetify
   - hemanth
   - imsyy
-  - moul
   - ryoppippi
+  - moul
   - nefarius
   - guanguans
   - v5tech
