@@ -8,7 +8,7 @@ authors:
   - robvanderleek
 repository: robvanderleek/create-issue-branch
 host: https://create-issue-branch.herokuapp.com
-stars: 344
+stars: 345
 updated: 2026-04-07 02:14:27 UTC
 organizations:
   - peers
