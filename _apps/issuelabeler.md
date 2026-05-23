@@ -9,7 +9,7 @@ authors:
 repository: riyadhalnur/issuelabeler
 host: https://issuelabeler.verticalaxisbd.com
 stars: 25
-updated: 2026-03-30 11:20:40 UTC
+updated: 2026-05-22 21:26:59 UTC
 organizations:
   - pymc-devs
   - Provenance-Emu
