@@ -10,12 +10,11 @@ authors:
   - wei
 repository: wei/pull
 host: https://pull.git.ci
-stars: 7145
+stars: 7146
 updated: 2026-04-13 23:43:55 UTC
 organizations:
   - spicetify
   - hemanth
-  - ryoppippi
   - nefarius
   - moul
   - guanguans
@@ -23,6 +22,7 @@ organizations:
   - ginobefun
   - kenzok8
   - bestony
+  - hectorqin
 ---
 
 [![Probot Featured](https://badgen.net/badge/probot/featured/orange?icon=dependabot&style=flat&cache=86400)](https://probot.github.io)
