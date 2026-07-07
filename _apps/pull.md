@@ -18,8 +18,8 @@ organizations:
   - nefarius
   - moul
   - guanguans
-  - v5tech
   - ginobefun
+  - v5tech
   - kenzok8
   - bestony
   - hectorqin
