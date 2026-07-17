@@ -19,10 +19,10 @@ organizations:
   - moul
   - guanguans
   - ginobefun
-  - v5tech
   - kenzok8
+  - v5tech
   - bestony
-  - hectorqin
+  - imsyy
 ---
 
 [![Probot Featured](https://badgen.net/badge/probot/featured/orange?icon=dependabot&style=flat&cache=86400)](https://probot.github.io)
