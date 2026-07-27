@@ -18,11 +18,11 @@ organizations:
   - nefarius
   - moul
   - guanguans
-  - ginobefun
   - kenzok8
+  - ginobefun
   - v5tech
   - bestony
-  - imsyy
+  - t8y2
 ---
 
 [![Probot Featured](https://badgen.net/badge/probot/featured/orange?icon=dependabot&style=flat&cache=86400)](https://probot.github.io)
