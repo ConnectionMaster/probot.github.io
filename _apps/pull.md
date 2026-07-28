@@ -21,8 +21,8 @@ organizations:
   - kenzok8
   - ginobefun
   - v5tech
-  - bestony
   - t8y2
+  - bestony
 ---
 
 [![Probot Featured](https://badgen.net/badge/probot/featured/orange?icon=dependabot&style=flat&cache=86400)](https://probot.github.io)
